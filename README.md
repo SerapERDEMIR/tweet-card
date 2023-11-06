@@ -17,4 +17,7 @@ Characters that exceed the limit have a red background color.
 # Kullanılan Teknolojiler
 HTML-CSS-JAVASCRIPT
 
+
+
+
 <img src="/img/ttg.gif"   />
