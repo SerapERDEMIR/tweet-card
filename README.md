@@ -14,7 +14,7 @@ When the character limit is exceeded, the color of the character counter turns r
 
 Characters that exceed the limit have a red background color.
 
-# Kullanılan Teknolojiler
+# Utilized Technologies
 HTML-CSS-JAVASCRIPT
 
 
